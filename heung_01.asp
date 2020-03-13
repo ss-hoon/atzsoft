@@ -32,8 +32,8 @@
                               <th data-options="field:'idx',width:'10%',sortable:'true',halign:'center'">idx</th>
                               <th data-options="field:'j_date_year',width:'10%',sortable:'true',halign:'center'">year</th>
                               <th data-options="field:'j_date_month',width:'10%',sortable:'true',halign:'center'">month</th>
-                            <!--  <th data-options="field:'j_gubun',width:'10%',align:'center'">구분1</th>
-                              <th data-options="field:'j_gubun1',width:'10%',align:'center'">구분2</th> -->
+                              <th data-options="field:'j_gubun',width:'10%',align:'center'">구분1</th>
+                              <th data-options="field:'j_gubun1',width:'10%',align:'center'">구분2</th>
                               <th data-options="field:'j_part_code',width:'10%',sortable:'true',halign:'center'">품번</th>
                               <th data-options="field:'j_qty',width:'10%',sortable:'true',halign:'center'">재고</th>
                               <th data-options="field:'j_price',width:'10%',align:'right',sortable:'true',halign:'center'">단가</th>
