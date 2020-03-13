@@ -674,7 +674,7 @@ if (navigator.standalone) {alert("전체화면 실행중");}
 <div style='width:144px;height:57px;' id='testQR'>
   <div style='border:1px solid;height:56px;width:143px'>
 
-           <div id='qrcode1' style='float:left;margin-left:5px;padding-top:11px;'></div>
+           <div id='qrcode1' style='float:left;margin-left:5px;padding-top:12px;'></div>
            <script type='text/javascript'>
             $('#qrcode1').kendoQRCode({
                    value: '123',
