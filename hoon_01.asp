@@ -12,7 +12,7 @@
 </head>
 <body>
   <div style="margin:20px 0;width:auto;height:auto">
-  <table class="easyui-datagrid" id = "dg" title="발주(balju) 테이블" >
+  <table class="easyui-datagrid" id = "dg" title="balju 테이블" >
   <thead>
     <tr>
       <th data-options="field:'s_date',width:'20%'">시작날짜</th>
